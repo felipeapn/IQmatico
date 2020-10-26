@@ -1,0 +1,291 @@
+Executar {'par': '', 'entrada': '12', 'martingale': '', 'stoploss': '150', 'stopgain': '150', 'mhi': False, 'vituxo': False, 'c3': False}
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 299/299 [00:57<00:00,  5.19it/s]
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um put, 12.0 | EURGBP-OTC peso: 4
+Compra realizada id:7547399221, valor:12.0, Gale:0
+Vitoria na tentativa 1 valor de 12.0
+Resultado Geral -> 12.0. 1 acertos em 1 tentativas
+ 98%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊    | 293/299 [03:59<00:04,  1.22it/s] 
+Hora de entrar? True / Minutos: 9.58
+
+Iniciando operação!
+Verificando cores..Compra um put, 12.0 | EURJPY-OTC peso: 3
+Compra realizada id:7547415613, valor:12.0, Gale:0
+Vitoria na tentativa 1 valor de 12.0
+Resultado Geral -> 24.0. 2 acertos em 2 tentativas
+ 98%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊    | 293/299 [03:59<00:04,  1.22it/s] 
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 12.0 | EURGBP-OTC peso: 3
+Compra realizada id:7547432762, valor:12.0, Gale:0
+Compra um call, 24.0 | EURGBP-OTC peso: 3
+Compra realizada id:7547436304, valor:24.0, Gale:1
+Vitoria na tentativa 2 valor de 12.0
+Resultado Geral -> 36.0. 3 acertos em 3 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍   | 294/299 [02:59<00:03,  1.64it/s]
+Hora de entrar? True / Minutos: 9.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 12.0 | EURJPY-OTC peso: 2
+Compra realizada id:7547449784, valor:12.0, Gale:0
+Compra um call, 24.0 | EURJPY-OTC peso: 2
+Compra realizada id:7547453551, valor:24.0, Gale:1
+Compra um call, 48.0 | EURJPY-OTC peso: 2
+Compra realizada id:7547457023, valor:48.0, Gale:2
+Vitoria na tentativa 3 valor de 12.0
+Resultado Geral -> 48.0. 4 acertos em 4 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍   | 294/299 [01:59<00:02,  2.46it/s]
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um put, 12.0 | EURGBP-OTC peso: 5
+Compra realizada id:7547466629, valor:12.0, Gale:0
+Compra um put, 24.0 | EURGBP-OTC peso: 5
+Compra realizada id:7547470286, valor:24.0, Gale:1
+Compra um put, 48.0 | EURGBP-OTC peso: 5
+Compra realizada id:7547473404, valor:48.0, Gale:2
+Vitoria na tentativa 3 valor de 12.0
+Resultado Geral -> 60.0. 5 acertos em 5 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍   | 294/299 [01:59<00:02,  2.46it/s]
+Hora de entrar? True / Minutos: 9.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 12.0 | EURGBP-OTC peso: 4
+Compra realizada id:7547484341, valor:12.0, Gale:0
+Vitoria na tentativa 1 valor de 12.0
+Resultado Geral -> 72.0. 6 acertos em 6 tentativas
+ 98%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊    | 293/299 [03:59<00:04,  1.22it/s]
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um put, 12.0 | EURGBP-OTC peso: 3
+Compra realizada id:7547502854, valor:12.0, Gale:0
+Vitoria na tentativa 1 valor de 12.0
+Resultado Geral -> 84.0. 7 acertos em 7 tentativas
+ 98%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊    | 293/299 [03:59<00:04,  1.23it/s]
+Hora de entrar? True / Minutos: 9.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 12.0 | EURGBP-OTC peso: 3
+Compra realizada id:7547519860, valor:12.0, Gale:0
+Compra um call, 24.0 | EURGBP-OTC peso: 3
+Compra realizada id:7547523138, valor:24.0, Gale:1
+Vitoria na tentativa 2 valor de 12.0
+Resultado Geral -> 96.0. 8 acertos em 8 tentativas
+ 98%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊    | 293/299 [02:58<00:03,  1.64it/s]
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 12.0 | EURUSD-OTC peso: 4
+Compra realizada id:7547535199, valor:12.0, Gale:0
+Vitoria na tentativa 1 valor de 12.0
+Resultado Geral -> 108.0. 9 acertos em 9 tentativas
+ 98%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊    | 293/299 [03:59<00:04,  1.22it/s]
+Hora de entrar? True / Minutos: 9.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 12.0 | AUDCAD-OTC peso: 4
+Compra realizada id:7547552095, valor:12.0, Gale:0
+Vitoria na tentativa 1 valor de 12.0
+Resultado Geral -> 120.0. 10 acertos em 10 tentativas
+ 98%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊    | 293/299 [03:59<00:04,  1.22it/s]
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 12.0 | EURUSD-OTC peso: 5
+Compra realizada id:7547569680, valor:12.0, Gale:0
+Compra um call, 24.0 | EURUSD-OTC peso: 5
+Compra realizada id:7547573490, valor:24.0, Gale:1
+Vitoria na tentativa 2 valor de 12.0
+Resultado Geral -> 132.0. 11 acertos em 11 tentativas
+ 98%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊    | 293/299 [02:58<00:03,  1.64it/s]
+Hora de entrar? True / Minutos: 9.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 12.0 | EURUSD-OTC peso: 3
+Compra realizada id:7547587203, valor:12.0, Gale:0
+Vitoria na tentativa 1 valor de 12.0
+Resultado Geral -> 144.0. 12 acertos em 12 tentativas
+ 98%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████     | 292/299 [03:58<00:05,  1.22it/s]
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um put, 12.0 | USDCHF-OTC peso: 2
+Compra realizada id:7547604164, valor:12.0, Gale:0
+Compra um put, 24.0 | USDCHF-OTC peso: 2
+Compra realizada id:7547607477, valor:24.0, Gale:1
+Vitoria na tentativa 2 valor de 12.0
+Resultado Geral -> 156.0. 13 acertos em 13 tentativas
+Stop Gain Batido!
+Traceback (most recent call last):
+  File "c:/Users/felip/Desktop/IqWorkspace/roboTela.py", line 63, in <module>
+    tela.iniciar()
+  File "c:/Users/felip/Desktop/IqWorkspace/roboTela.py", line 38, in iniciar
+    self.executar()
+  File "c:/Users/felip/Desktop/IqWorkspace/roboTela.py", line 46, in executar
+    robo.run(self.values['par'], float(self.values['entrada']), 1)
+  File "c:\Users\felip\Desktop\IqWorkspace\automacao\mhi.py", line 94, in run
+    self.stop(round(resultadoTodasOperacoes,2), self.stopGain, self.stopLoss)
+  File "c:\Users\felip\Desktop\IqWorkspace\automacao\mhi.py", line 114, in stop
+    sys.exit()
+NameError: name 'sys' is not defined
+
+Executar {'par': '', 'entrada': '5', 'martingale': '2', 'stoploss': '150', 'stopgain': '300', 'mhi': False, 'vituxo': False, 'c3': False}
+100%|████████████████████████████████████████████████████████████████████████| 299/299 [00:46<00:00,  6.43it/s]
+Hora de entrar? True / Minutos: 9.58
+
+Iniciando operação!
+Verificando cores..Compra um put, 5.0 | EURUSD peso: 15.54
+Compra realizada id:7549143878, valor:5.0, Gale:0
+Compra um put, 11.76 | EURUSD peso: 15.54
+Compra realizada id:7549145557, valor:11.76, Gale:1
+Compra um put, 27.65 | EURUSD peso: 15.54
+Compra realizada id:7549147077, valor:27.65, Gale:2
+Derrota na tentativa 3 valor de -32.65
+Resultado Geral -> -32.65. 0 acertos em 1 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████▊ | 294/299 [01:59<00:02,  2.45it/s]
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 10.0 | EURUSD peso: 21.9
+Compra realizada id:7549152599, valor:10.0, Gale:0
+Vitoria na tentativa 1 valor de 7.3
+Resultado Geral -> -25.35. 1 acertos em 2 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████▌ | 293/299 [03:59<00:04,  1.22it/s]
+Hora de entrar? True / Minutos: 9.59
+
+Iniciando operação!
+Verificando cores..Compra um put, 10.0 | USDJPY peso: 5.84
+Compra realizada id:7549162629, valor:10.0, Gale:0
+Compra um put, 23.7 | USDJPY peso: 5.84
+Compra realizada id:7549164917, valor:23.7, Gale:1
+Vitoria na tentativa 2 valor de 7.3
+Resultado Geral -> -18.05. 2 acertos em 3 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████▌ | 293/299 [02:59<00:03,  1.63it/s]
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um put, 5.0 | EURUSD peso: 3.7
+Compra realizada id:7549173979, valor:5.0, Gale:0
+Compra um put, 11.76 | EURUSD peso: 3.7
+Compra realizada id:7549176077, valor:11.76, Gale:1
+Compra um put, 27.65 | EURUSD peso: 3.7
+Compra realizada id:7549177864, valor:27.65, Gale:2
+Vitoria na tentativa 3 valor de 3.7
+Resultado Geral -> -14.35. 3 acertos em 4 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████▌ | 293/299 [01:59<00:02,  2.46it/s]
+Hora de entrar? True / Minutos: 9.58
+
+Iniciando operação!
+Verificando cores..Compra um put, 5.0 | EURUSD peso: 3.7
+Compra realizada id:7549183946, valor:5.0, Gale:0
+Vitoria na tentativa 1 valor de 3.7
+Resultado Geral -> -10.65. 4 acertos em 5 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████▎ | 292/299 [03:59<00:05,  1.22it/s]
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 5.0 | EURUSD peso: 3.7
+Compra realizada id:7549194140, valor:5.0, Gale:0
+Compra um call, 11.76 | EURUSD peso: 3.7
+Compra realizada id:7549196384, valor:11.76, Gale:1
+Compra um call, 27.65 | EURUSD peso: 3.7
+Compra realizada id:7549198060, valor:27.65, Gale:2
+Vitoria na tentativa 3 valor de 3.7
+Resultado Geral -> -6.95. 5 acertos em 6 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████▊ | 294/299 [01:59<00:02,  2.46it/s]
+Hora de entrar? True / Minutos: 9.58
+
+Iniciando operação!
+Verificando cores..Compra um put, 5.0 | EURUSD peso: 3.7
+Compra realizada id:7549203294, valor:5.0, Gale:0
+Vitoria na tentativa 1 valor de 3.7
+Resultado Geral -> -3.25. 6 acertos em 7 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████▎ | 292/299 [03:59<00:05,  1.22it/s]
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um put, 5.0 | AUDCAD peso: 4.4399999999999995
+Compra realizada id:7549213621, valor:5.0, Gale:0
+Compra um put, 11.76 | AUDCAD peso: 4.4399999999999995
+Compra realizada id:7549216012, valor:11.76, Gale:1
+Compra um put, 27.65 | AUDCAD peso: 4.4399999999999995
+Compra realizada id:7549217851, valor:27.65, Gale:2
+Derrota na tentativa 3 valor de -44.41
+Resultado Geral -> -47.66. 6 acertos em 8 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████▌ | 293/299 [01:59<00:02,  2.46it/s]
+Hora de entrar? True / Minutos: 9.58
+
+Iniciando operação!
+Verificando cores..Compra um put, 10.0 | AUDCAD peso: 7.4
+Compra realizada id:7549224667, valor:10.0, Gale:0
+Compra um put, 23.51 | AUDCAD peso: 7.4
+Compra realizada id:7549227496, valor:23.51, Gale:1
+Compra um put, 55.28 | AUDCAD peso: 7.4
+Compra realizada id:7549229497, valor:55.28, Gale:2
+Vitoria na tentativa 3 valor de 7.4
+Resultado Geral -> -40.26. 7 acertos em 9 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████▌ | 293/299 [01:59<00:02,  2.46it/s]
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 5.0 | USDJPY peso: 4.38
+Compra realizada id:7549235417, valor:5.0, Gale:0
+Vitoria na tentativa 1 valor de 3.65
+Resultado Geral -> -36.61. 8 acertos em 10 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████▎ | 292/299 [03:59<00:05,  1.22it/s]
+Hora de entrar? True / Minutos: 9.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 5.0 | AUDCAD peso: 3.7
+Compra realizada id:7549244422, valor:5.0, Gale:0
+Compra um call, 11.76 | AUDCAD peso: 3.7
+Compra realizada id:7549246625, valor:11.76, Gale:1
+Vitoria na tentativa 2 valor de 3.7
+Resultado Geral -> -32.91. 9 acertos em 11 tentativas
+ 97%|██████████████████████████████████████████████████████████████████████  | 291/299 [02:59<00:04,  1.62it/s]
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 5.0 | USDJPY peso: 3.65
+Compra realizada id:7549253796, valor:5.0, Gale:0
+Vitoria na tentativa 1 valor de 3.65
+Resultado Geral -> -29.26. 10 acertos em 12 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████▎ | 292/299 [03:59<00:05,  1.22it/s]
+Hora de entrar? True / Minutos: 9.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 10.0 | AUDJPY peso: 5.18
+Compra realizada id:7549265701, valor:10.0, Gale:0
+Compra um call, 23.51 | AUDJPY peso: 5.18
+Compra realizada id:7549267751, valor:23.51, Gale:1
+Vitoria na tentativa 2 valor de 17.4
+Resultado Geral -> -11.86. 11 acertos em 13 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████▌ | 293/299 [02:59<00:03,  1.63it/s]
+Hora de entrar? True / Minutos: 4.58
+
+Iniciando operação!
+Verificando cores..Compra um call, 10.0 | GBPCHF peso: 5.92
+Compra realizada id:7549274469, valor:10.0, Gale:0
+Compra um call, 23.51 | GBPCHF peso: 5.92
+Compra realizada id:7549276168, valor:23.51, Gale:1
+Compra um call, 55.28 | GBPCHF peso: 5.92
+Compra realizada id:7549278334, valor:55.28, Gale:2
+Derrota na tentativa 3 valor de -88.79
+Resultado Geral -> -100.65. 11 acertos em 14 tentativas
+ 98%|██████████████████████████████████████████████████████████████████████▌ | 293/299 [01:59<00:02,  2.46it/s]
+Hora de entrar? True / Minutos: 9.58
+
+Iniciando operação!
+Verificando cores..Compra um put, 10.0 | GBPCHF peso: 10.36
+Compra realizada id:7549284325, valor:10.0, Gale:0
+Compra um put, 23.51 | GBPCHF peso: 10.36
+Compra realizada id:7549286660, valor:23.51, Gale:1
+Compra um put, 55.28 | GBPCHF peso: 10.36
+Compra realizada id:7549288761, valor:55.28, Gale:2
+Derrota na tentativa 3 valor de -88.79
+Resultado Geral -> -189.44. 11 acertos em 15 tentativas
+Stop Loss batido!
