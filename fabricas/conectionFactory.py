@@ -5,7 +5,7 @@ class ConnectionFactory:
 
     @classmethod
     def getConnection(self):
-        API = IQ_Option('felipeapn@yahoo.com.br', 'uperR**22')
+        API = IQ_Option('login', 'senha')
 
         check, reason= API.connect()
         API.change_balance('PRACTICE') # PRACTICE / REAL
