@@ -130,3 +130,4 @@ dmypy.json
 
 #meu arquivos
 user_data.txt
+.user_data.txt
